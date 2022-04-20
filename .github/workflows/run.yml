@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: run cloner
-        uses: actions/checkout@v3          
+        uses: actions/checkout@v3
       - name: run generator
         run: npm run generate # Run the generation tool
         env: 
