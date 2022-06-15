@@ -30,3 +30,4 @@ jobs:
           commit-message: 'doc: generate weekly retro'
           title: 'doc: generate weekly retro'
           assignees: bnb # change to whoever you want to be assigned to this PR
+          auto-merge: squash
