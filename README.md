@@ -1,13 +1,13 @@
 # retro-weekly
 
-This repository is a template that can be cloned 1:1 (with some slight alterations of configurations) to generate weekly retros for your GitHub organization or for a specific user. It imlements [retrogen](https://github.com/cutenode/retrogen), so if you care about the underlying JavaScript you should look there.
+This repository is a template that can be cloned 1:1 (with some slight alterations of configurations) to generate weekly retros for your GitHub organization or for a specific user. It implements [retrogen](https://github.com/cutenode/retrogen), so if you care about the underlying JavaScript you should look there.
 
 # Usage
 
 You've got two options:
 
-- Use this repostiory as a tempalte repository for your own project.
-- Use the code in this repostiory as "inspiration" for your own implementation of retrogen.
+- Use this repository as a template repository for your own project.
+- Use the code in this repository as "inspiration" for your own implementation of retrogen.
 
 To make this work for your organization, you'll need to change one thing and might want to change a few others:
 
